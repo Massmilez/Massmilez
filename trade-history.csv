@@ -1,0 +1,6 @@
+"id","operation","baseCurrency","baseCurrencyAmount","createdAt","quoteCurrency","quoteCurrencyAmount","feeAmount","extraFeeAmount","status"
+"f6b01607-ce65-45fd-a65c-a7b02277a562","sell","btc",0.0015,"2024-02-01T12:32:55.103Z","usd",58.76,3.99,0,"failed"
+"560a384f-5e31-4152-aa87-a21782d48c1a","sell","eth",0.01,"2024-02-11T23:43:07.808Z","usd",19.07,3.99,1.21,"pending"
+"7a1191e5-cc2d-40d8-9cdc-c5d814ae0a7e","sell","bch",0.748,"2024-02-16T08:07:41.868Z","usd",179.59,8.93,9.92,"pending"
+"b588820f-e805-480a-8bdc-d686afdc3c11","sell","eth",0.01,"2024-02-16T08:44:16.395Z","usd",22.01,3.99,1.37,"pending"
+"40900db9-3658-4db6-890c-a52bf2a62a7d","sell","eth",0.01,"2024-02-16T08:48:07.655Z","usd",22.02,3.99,1.37,"pending"
